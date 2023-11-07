@@ -181,35 +181,3 @@ def redo():
 
 compiler.mainloop()
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# print("hy")
-# print(1+3)
-# for i in range(5):
-#    print("hello")
-# print(2*3+3*1)
-# def add(a,b):
-#    return a + b
-# print(add(5,9))
